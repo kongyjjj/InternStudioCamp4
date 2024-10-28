@@ -2,10 +2,10 @@
 > 完成SSH连接与端口映射并运行hello_world.py
 
 ssh连接开发机并端口映射
-![](images/ssh.jpg)
+![ssh](images/ssh.jpg)
 
 启动`hello_world.py`服务
-![](images/hello_service.jpg)
+![service](images/hello_service.jpg)
 
 本地端访问`hello_world.py`服务
 ![](images/hello_world.jpg)
